@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/pydantic/braindump/commit/11a3431f11a7ad3786c5e5f7c42f068c33fd7fb7",
       "git:hexsha": "11a3431f11a7ad3786c5e5f7c42f068c33fd7fb7",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T21:00:14.263712+00:00"
     }
   ]
 }
